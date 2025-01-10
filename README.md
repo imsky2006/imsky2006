@@ -1,12 +1,12 @@
-# 👋 **Welcome to my GitHub-profile**
-## 📌** About Me**
+# 👋 Welcome to my GitHub-profile
+## 📌 About Me
 ### Name: Summiya Yousaf
 ### 🏫 Het Spectrum Gent
 ### 💻 Application and Data Management
 ### 🎯 My Hobbies:
-    *Working with Technology*
-    *Travelling*
-    *Reading*
+    Working with Technology
+    Travelling
+    Reading
 ### 🔭 I’m currently working on Restaurant Traffic Predictor Website
 ### 📊My skills and Interests:
     | Skills               | Level        |
