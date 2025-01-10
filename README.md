@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub-profile
 ## 📌 About Me
-### Name: Summiya Yousaf
+### Summiya Yousaf
 ### 🏫 Het Spectrum Gent
 ### 💻 Application and Data Management
 ### 🎯 My Hobbies:
